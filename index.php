@@ -21,7 +21,7 @@
 </head>
 <body>
 <h1 style="color: #fff; text-align:center;font-size:16px;">MovieClips, Collisions & Keyboard Events with PandaJS</h1>
-<p style="color: #fff; text-align:center;"><strong>Player Control:</strong> [JUMP] -> up arrow key or W, [LEFT] -> left arrow key or A, [RIGHT] -> right arrow key or D | <a href="source/physicsdemo1.rar" target="_blank"><strong>Download source code</strong></a></p>
+<p style="color: #fff; text-align:center;"><strong>Player Control:</strong> [JUMP] -> up arrow key or W, [LEFT] -> left arrow key or A, [RIGHT] -> right arrow key or D | <a href="https://github.com/maho125/JumpingDragon" target="_blank"><strong>Download source code</strong></a></p>
 
 <div style="position:absolute; top:50px;right:50px;">
   <a href="https://twitter.com/share"  class="twitter-share-button" data-via="maho125" data-size="large" data-related="beedigitalSk" data-hashtags="pandajs">Tweet</a>
